@@ -1,7 +1,7 @@
 # Senior Full-Stack Engineer (PHP/Laravel)
 
-**Location:** Remote (Global/US-based) </br>
-**Team:** Product Engineering
+**Location:** Remote (Global/US-based)  
+**Team:** Software Engineering
 
 ### The Opportunity
 We are looking for a Senior Full-Stack Engineer to help us modernize the way the world handles food safety. Our SaaS platform powers food manufacturers, distributors, and commercial kitchens, ensuring the quality and safety of the food supply chain.

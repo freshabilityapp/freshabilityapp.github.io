@@ -23,7 +23,7 @@ We believe in empowering our engineers with the best modern practices. We value:
 ### What You Bring
 * **Senior-Level Fluency:** 5+ years of full-stack experience, with deep expertise in modern **PHP** and the **Laravel** ecosystem.
 * **Frontend Sophistication:** Strong command of modern frontend development (VueJS, Composition API, TypeScript, TailwindCSS). You don't just hack UI; you build reusable component systems.
-* **Database Mastery:** Advanced proficiency with SQL (PostgreSQL/MySQL), including complex schema design, normalization, and query optimization.
+* **Database Mastery:** Advanced proficiency with MySQL, including complex schema design, normalization, and query optimization.
 * **AI Curiosity:** Experience or strong interest in leveraging AI coding assistants to increase velocity and reduce repetitive toil.
 
 ### Preferred Qualifications

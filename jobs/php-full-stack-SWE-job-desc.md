@@ -1,6 +1,6 @@
 # Senior Full-Stack Engineer (PHP/Laravel)
 
-**Location:** Remote (Global/US-based)</br>
+**Location:** Remote (Global/US-based) </br>
 **Team:** Product Engineering
 
 ### The Opportunity
